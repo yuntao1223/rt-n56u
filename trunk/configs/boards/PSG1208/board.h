@@ -1,11 +1,11 @@
-/* PSG1208 */
+/* LG522 */
 
-#define BOARD_PID		"PSG1208"
-#define BOARD_NAME		"PSG1208"
-#define BOARD_DESC		"PHICOMM PSG1208 Wireless Router"
-#define BOARD_VENDOR_NAME	"PHICOMM"
-#define BOARD_VENDOR_URL	"http://www.phicomm.com/"
-#define BOARD_MODEL_URL		"http://www.phicomm.com/"
+#define BOARD_PID		"LG522"
+#define BOARD_NAME		"LG522"
+#define BOARD_DESC		"FiberHome LG522 Wireless Router"
+#define BOARD_VENDOR_NAME	"FiberHome"
+#define BOARD_VENDOR_URL	"http://www.FiberHome.com/"
+#define BOARD_MODEL_URL		"http://www.FiberHome.com/"
 #define BOARD_BOOT_TIME		25
 #define BOARD_FLASH_TIME	120
 #define BOARD_GPIO_BTN_RESET	1
